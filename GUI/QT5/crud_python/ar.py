@@ -11,5 +11,5 @@ LIST = [10,11,11]
 for h in    LIST:
     print('estamos'+str(h))
 
-for k in LIST:
+for kk in LIST:
     print('main'+str(i))
