@@ -8,3 +8,6 @@ for i in range(10):
     print(i)
     
 LIST = [10,11,11]
+
+for k in LIST:
+    print(k)
